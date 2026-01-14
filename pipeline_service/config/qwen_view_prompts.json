@@ -1,0 +1,15 @@
+{
+    "front_view": {
+        "positive": "Show this exact same object from the front view, facing the camera directly. Keep the exact same object type, design, materials, colors, and style from the input image. The object should be centered and fully visible against a clean white background. Maintain all original details, textures, and proportions. Front-facing perspective, clear and sharp details."
+    },
+    "back_view": {
+        "positive": "Show this exact same object from the back view, opposite side from the front. Keep the exact same object type, design, materials, colors, and style from the input image. The object should be centered and fully visible against a clean white background. Maintain all original details, textures, and proportions. Back-facing perspective, clear and sharp details."
+    },
+    "side_view": {
+        "positive": "Show this exact same object from the side view, 90-degree profile angle. Keep the exact same object type, design, materials, colors, and style from the input image. The object should be centered and fully visible against a clean white background. Maintain all original details, textures, and proportions. Side profile perspective, clear and sharp details."
+    },
+    "isometric_view": {
+        "positive": "Show this exact same object from an isometric three-quarter view, 45-degree angle perspective. Keep the exact same object type, design, materials, colors, and style from the input image. The object should be centered and fully visible against a clean white background. Maintain all original details, textures, and proportions. Three-quarter angle perspective, clear and sharp details."
+    }
+}
+
